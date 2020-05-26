@@ -1,9 +1,9 @@
-// export const ToDoActionTypes = {
-//     ADD_TODO: 'ADD_TODO',
-//     DELETE_CONST: 'DELETE_CONST'
-// } as const
+export const ToDoActionTypes = {
+    ADD_TODO: 'ADD_TODO',
+    DELETE_CONST: 'DELETE_CONST'
+} as const
 
-export enum ToDoActionTypes {
-    ADD_TODO = 'ADD_TODO',
-    DELETE_CONST = 'DELETE_CONST'
-}
+// export enum ToDoActionTypes {
+//     ADD_TODO = 'ADD_TODO',
+//     DELETE_CONST = 'DELETE_CONST'
+// }

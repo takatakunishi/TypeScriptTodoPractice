@@ -1,6 +1,6 @@
-import { ToDos } from '../../state/Todos'
-import { TodoAction } from '../../actions/Todo/Action'
-import { ToDoActionTypes } from '../../actions/Todo/ActionType'
+import { ToDos } from '../state/Todos'
+import { TodoAction } from '../actions/Todo/Action'
+import { ToDoActionTypes } from '../actions/Todo/ActionType'
 
 const initialState: ToDos = []
 
